@@ -41,4 +41,4 @@ class MyPluginView(Label):
         update_frame()
 
 def load_plugin():
-    get_workbench().add_view(MyPluginView, "Subway surfers", "ne", default_position_key="zz")
+    get_workbench().add_view(MyPluginView, "Subway Surfers", "ne", default_position_key="zz")
