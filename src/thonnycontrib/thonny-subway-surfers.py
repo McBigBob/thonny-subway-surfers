@@ -35,7 +35,7 @@ class MyPluginView(Label):
             photo = ImageTk.PhotoImage(gif)
             self.config(image=photo)
             self.image = photo  # Keep a reference to the image to prevent it from being garbage collected
-            self.after(10, update_frame)  # Adjust the delay as needed
+            self.after(20, update_frame)  # Adjust the delay as needed
 
         # Start the animation
         update_frame()
