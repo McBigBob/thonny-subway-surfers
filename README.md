@@ -17,7 +17,7 @@ Add a dash of excitement to your coding routine! This plugin is designed for tho
 5. Restart Thonny to apply the changes.
 6. Find the Subway Surfers option in the `View` tab and toggle it to start enjoying the gameplay.
 
-**OR**
+**OR (currently NOT working!! ↓↓↓↓)** 
 
 1. Open Thonny and navigate to `Tools` >> `Manage plug-ins`.
 2. Select the search bar and type `thonny-subway-surfers`.
