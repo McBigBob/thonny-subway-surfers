@@ -29,6 +29,9 @@ jobs:
       with:
         fetch-depth: 2  # Ensure Git LFS fetches all necessary files.
 
+    - name: Configure Git LFS
+      run: git lfs fetch
+
     - name: Set up Python
       uses: actions/setup-python@v3
       with:
@@ -41,9 +44,6 @@ jobs:
 
     - name: Build package
       run: python -m build
-
-    - name: Configure Git LFS
-      run: git lfs fetch
 
     - name: Publish package
       uses: pypa/gh-action-pypi-publish@27b31702a0e7fc50959f5ad993c78deac1bdfc29
