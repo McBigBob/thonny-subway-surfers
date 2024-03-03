@@ -15,16 +15,20 @@ Add a dash of excitement to your coding routine! This plugin is designed for tho
 3. Select the downloaded `thonny-subway-surfers-0.0.1.tar.gz` file and click **`OK`**.
 4. Wait for Thonny to complete the extraction.
 5. Restart Thonny to apply the changes.
-6. Find the Subway Surfers option in the `View` tab and toggle it to start enjoying the gameplay.
+6. Find the Subway Surfers option in the `View` tab and toggle it on.
+7. On first boot the plugin has to download a media file.
+8. After the download click **`OK`** to start enjoying the gameplay.
 
-**OR (currently NOT working!! ↓↓↓↓)** 
+**OR** 
 
 1. Open Thonny and navigate to `Tools` >> `Manage plug-ins`.
 2. Select the search bar and type `thonny-subway-surfers`.
 3. Find the PyPi package and click **`Install`**.
 4. Wait for Thonny to complete the Installation.
 5. Restart Thonny to apply the changes.
-6. Find the Subway Surfers option in the `View` tab and toggle it to start enjoying the gameplay.
+6. Find the Subway Surfers option in the `View` tab and toggle it on.
+7. On first boot the plugin has to download a media file.
+8. After the download click **`OK`** to start enjoying the gameplay.
 
 **Requirements:**
 
