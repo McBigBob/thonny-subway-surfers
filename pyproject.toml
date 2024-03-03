@@ -22,7 +22,7 @@ version = "0.1.0"  # Required
 # This is a one-line description or tagline of what your project does. This
 # corresponds to the "Summary" metadata field:
 # https://packaging.python.org/specifications/core-metadata/#summary
-description = "The Thonny Subway Surfers Plugin seamlessly integrates entertainment into your coding experience. Activate the checkbox in the View menu to enjoy Subway Surfers gameplay alongside your code."  # Optional
+description = "This plugin seamlessly integrates Subway Surfers gameplay into your Thonny IDE."  # Optional
 
 # This is an optional longer description of your project that represents
 # the body of text which users will see when they visit PyPI.

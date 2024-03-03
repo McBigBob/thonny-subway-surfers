@@ -10,9 +10,9 @@ Add a dash of excitement to your coding routine! This plugin is designed for tho
 
 **How to Install:**
 
-1. Download the `thonny-subway-surfers-0.0.1.tar.gz` file from the releases.
+1. Download the `thonny-subway-surfers-0.1.0.tar.gz` file from the releases.
 2. Open Thonny and navigate to `Tools` >> `Manage plug-ins` >> `Install from local file`.
-3. Select the downloaded `thonny-subway-surfers-0.0.1.tar.gz` file and click **`OK`**.
+3. Select the downloaded `thonny-subway-surfers-0.1.0.tar.gz` file and click **`OK`**.
 4. Wait for Thonny to complete the extraction.
 5. Restart Thonny to apply the changes.
 6. Find the Subway Surfers option in the `View` tab and toggle it on.
