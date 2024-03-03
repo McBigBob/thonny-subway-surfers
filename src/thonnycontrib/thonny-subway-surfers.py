@@ -71,8 +71,7 @@ class MyPluginView(tk.Label):
                 messagebox.showerror("Error", "No internet connection! Can't download the media file for Subway Surfers.")
                 return False
             
-            #gif_url = 'https://www.dropbox.com/scl/fi/5iqugjg7wdu5d65s2mobc/main.gif?rlkey=snekjxb32qho2tkh73v9a5rl0&dl=1'
-            gif_url = 'https://download1529.mediafire.com/8w777hol8vkgVGJUY0_kjBc-agnlWo66fmSadT4D6lTC_25JMEzErguTQgEHGC_AulqL8dH5c0BbHn7QGYaEh0uaVsGxsxUfZTv2RlzJsWAch7JRCd3o4p48xVQhBgdkZukFEylrTPMRaysIz57JnXIdbNBHvC_JjyCxqYulQEKCSA/g8bs4y3g4tj8bx6/main.gif'
+            gif_url = 'https://lingid.ee/ExgKv'
 
             progress_queue = queue.Queue()
 
